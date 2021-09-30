@@ -8,3 +8,6 @@ I am happy to be here.
 Thank you
 Jackie
 git config --local username "Jane Doe"
+
+
+git config --global user.name "Jane Doe"
